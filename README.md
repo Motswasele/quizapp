@@ -1,5 +1,5 @@
 # quizapp
-Agricultural Management Practices
+
 The Agricultural Management Practices is a quiz app that has a few question regarding agricaltural practices.
 Answering the questions might help you get a bit knowledge regarding agricaltural practices.
 
