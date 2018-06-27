@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Agricultural Management Practices</string>
+    <string name="full_names">Full Names</string>
+    <string name="gender">Gender</string>
+    <string name="male_sex">M</string>
+    <string name="female_sex">F</string>
+    <string name="male_gender">Male</string>
+    <string name="female_gender">Female</string>
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="first_question">An important aspect when pasture into camps:
+        (Choose two answers)</string>
+    <string name="answer_1_a">A. All different types of veld must be separated.</string>
+    <string name="answer_1_b">B. Drinking water must be available in every camp</string>
+    <string name="answer_1_c">C. Erode areas must not be camped of.</string>
+    <string name="second_question">During the decision making process on acquiring equipments,
+        it is important to evaluate the . . . . of equipment.</string>
+    <string name="answer_2_a">A. value for money</string>
+    <string name="answer_2_b">B. price</string>
+    <string name="answer_2_c">C. brand</string>
+    <string name="third_question">Crops will grow on . . . .soil.(Choose one answer)</string>
+    <string name="answer_3_a">A. rocky</string>
+    <string name="answer_3_b">B. very shallow, sandy</string>
+    <string name="answer_3_c">C. deep loam</string>
+    <string name="fourth_question">One advantage of precision farming.(Choose one answer</string>
+    <string name="answer_4_a">A. Higher food prices</string>
+    <string name="answer_4_b">B. Sustainable environment conditions</string>
+    <string name="answer_4_c">C. Higher input prices</string>
+    <string name="correct_answers">Correct Answers: </string>
+    <string name="correct_answers_1">Correct Answers: A, B</string>
+    <string name="correct_answers_2">Correct Answers: A, B</string>
+    <string name="correct_answer_3">Correct Answer: C</string>
+    <string name="correct_answer_4">Correct Answer: B</string>
+    <string name="total">Total: </string>
+</resources>

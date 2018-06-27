@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pratiques de gestion de l\'agriculture</string>
+    <string name="full_names">Noms Complets</string>
+    <string name="gender">Le gender</string>
+    <string name="male_sex">M</string>
+    <string name="female_sex">F</string>
+    <string name="male_gender">Mâle</string>
+    <string name="female_gender">Femelle</string>
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="submit">Soumettre</string>
+    <string name="clear">Clair</string>
+    <string name="first_question">Un aspect important lorsque les paturages dans les camps.
+        (Choisis deux reponses)</string>
+    <string name="answer_1_a">A. Tous les différents types de veld doivent être séparés</string>
+    <string name="answer_1_b">B. L\'eau potable doit être disponible dans chaque camp</string>
+    <string name="answer_1_c">"C. Les zones érodées ne doivent pas être campées"</string>
+    <string name="second_question">Au cours du processus de prise de décision
+        sur l\'acquisition d\'équipements, il est important d'évaluer le. . . .
+        de l\'équipement.</string>
+    <string name="answer_2_a">A. le rapport qualité prix</string>
+    <string name="answer_2_b">B. prix</string>
+    <string name="answer_2_c">C. marque</string>
+    <string name="third_question">Les cultures vont se développer. . . .soil.
+        (Choisissez une réponse)</string>
+    <string name="answer_3_a">A. rocheux</string>
+    <string name="answer_3_b">B. très peu profond, sablonneux</string>
+    <string name="answer_3_c">C. terreau profond</string>
+    <string name="fourth_question">Un avantage de l\'agriculture de précision.
+         (Choisir une réponse)</string>
+    <string name="answer_4_a">A. Prix des aliments plus élevés</string>
+    <string name="answer_4_b">B. Conditions environnementales durables</string>
+    <string name="answer_4_c">C. Hausse des prix des intrants</string>
+    <string name="correct_answers">Réponses correctes: </string>
+    <string name="correct_answers_1">Réponses correctes: A, B</string>
+    <string name="correct_answers_2">Réponses correctes: A, B</string>
+    <string name="correct_answer_3">Bonne réponse: C</string>
+    <string name="correct_answer_4">Bonne réponse: D</string>
+    <string name="total">Total: </string>
+
+</resources>
